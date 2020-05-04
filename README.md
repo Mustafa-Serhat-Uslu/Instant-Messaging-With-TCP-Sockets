@@ -1,5 +1,4 @@
 # Instant-Messaging-With-Sockets
-Instant messaging app using TCP and Sockets
 
 Check out the YouTube video down below for quick code review and demonstration:
 
